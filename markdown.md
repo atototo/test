@@ -30,6 +30,7 @@
 5. ~~취소선을 긍어주는기호~~
 - - -
 [다른 웹사이트로 가는 링크](www.naver.com)
+[다른 웹사이트로 가는 링크](http://www.google.com)
 ***
 ## 웹 링크 이미지  
 ![웹 링크](http://photo.jtbc.joins.com/news/2019/07/09/20190709080210807.jpg)
