@@ -34,4 +34,6 @@
 fdsafdsaf  
 fdsfdsf  
 - - -
-(assets/profile.png)
+![이미지 설명 글](https://i.imgur.com/81qyN1y.jpg)  
+- - -
+![컴퓨터에 있는 사진](assets/profile.png)
